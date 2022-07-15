@@ -14,5 +14,5 @@ Peter Monev
 ##
 
 #### - 👀 I have an interest in :
-[<img src="https://github.com/PeterMonev/PeterMonevInfo/commit/e0307cfb2b6ef86aa94d3cbd5ce624a10d70e297">]
-[<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png">]
+<img src="https://github.com/PeterMonev/PeterMonevInfo/commit/e0307cfb2b6ef86aa94d3cbd5ce624a10d70e297">
+<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png">

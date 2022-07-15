@@ -4,6 +4,7 @@ Peter Monev
 
 - 🌱 I’m currently learning **JavaScript**, as a student in [SoftUni](https://softuni.bg/users/profile/show?username=PeteM).
 - 📫 You can contact with me on monevpeter@gmail.com
+
 [<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/peter.monev)
 
 
@@ -14,5 +15,6 @@ Peter Monev
 ##
 
 #### - 👀 I have an interest in :
-<img src="https://github.com/PeterMonev/PeterMonevInfo/commit/e0307cfb2b6ef86aa94d3cbd5ce624a10d70e297">
+
 <img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png">
+<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png">

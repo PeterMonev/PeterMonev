@@ -17,4 +17,4 @@ Peter Monev
 
 #### - 👀 I have an interest in :
 
-<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/css.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/983927.png><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/jira.png">
+<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/css.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/jira.png">

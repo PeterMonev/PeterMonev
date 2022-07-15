@@ -10,10 +10,11 @@ Peter Monev
 
 ## Certificates
 [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
+
 [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)  
 
 ##
 
 #### - 👀 I have an interest in :
 
-<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png">
+<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/css.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/983927.png><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/jira.png">

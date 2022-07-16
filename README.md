@@ -7,6 +7,7 @@ Peter Monev
 
    [<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/peter.monev)
 
+<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/css.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/jira.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/983927.png">
 
 ## Certificates
 [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
@@ -17,4 +18,3 @@ Peter Monev
 
 #### - 👀 I have an interest in :
 
-<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/css.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/jira.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/983927.png">

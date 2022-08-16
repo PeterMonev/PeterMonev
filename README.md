@@ -20,5 +20,5 @@
 
 ##
 
-[Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)
+![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)
  

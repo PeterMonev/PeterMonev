@@ -16,7 +16,7 @@
 
 [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
 
-##[QA Fundamentals]##(https://softuni.bg/certificates/details/133013/505f6769)
+**[QA Fundamentals]**(https://softuni.bg/certificates/details/133013/505f6769)
 
 ##
 

@@ -18,6 +18,8 @@
 
 [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
 
+[JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
+
 ##
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)

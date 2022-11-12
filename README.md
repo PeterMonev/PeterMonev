@@ -20,6 +20,8 @@
 
 [JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
 
+[HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
+
 ##
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)

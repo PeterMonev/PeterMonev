@@ -24,6 +24,8 @@
 
 [JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
 
+[JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
+
 ##
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)

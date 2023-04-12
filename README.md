@@ -28,6 +28,8 @@
 
 [JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
 
+[React](https://softuni.bg/certificates/details/168489/855a0f0d)
+
 ##
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)

@@ -1,8 +1,7 @@
 
 
-👋 Hi, my name is Peter Monev
-
-- 🌱 I’m currently learning **JavaScript**, as a student in [SoftUni](https://softuni.bg/users/profile/show?username=PeteM).
+👋 Hi, my name is Peter Monev.
+- 🌱  I'm gruduated at [SoftUni](https://softuni.bg/users/profile/show?username=PeteM) as JavaScript Web Developer with React.
 - 📫 You can contact with me on monevpeter@gmail.com
 - :speech_balloon: My social Networks:  [<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/peter.monev)  [<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/linkedin-logo-2430.png">](https://www.linkedin.com/in/peter-monev-22582b248/)
 

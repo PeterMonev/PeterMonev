@@ -5,11 +5,27 @@
 - 📫 You can contact with me on monevpeter@gmail.com
 - :speech_balloon: My social Networks:  [<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/peter.monev)  [<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/linkedin-logo-2430.png">](https://www.linkedin.com/in/peter-monev-22582b248/)
 
-#### - 👀 I have an interest in :
-<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/javascript.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/html%20(1).png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/css.png"><img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/983927.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoDB.logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoose.logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/node.js.logo.png">
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react%20js.png">
+## Tech Stack:
 
+###  Programming language:
 
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/php-logo.png">
+
+### Frameworks:
+
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/express-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/bootstrap-logo.png">
+
+### Front-end:
+
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/html-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/css-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/sass-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/jquery-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/selenium-logo.png">
+
+### Back-end:
+
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/nodejs-log.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoose-logo.png">
+
+### Database:
+
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongodb-log.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mysql-logo.png">
 
 ## Certificates
 

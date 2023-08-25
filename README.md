@@ -9,19 +9,19 @@
 
 ###  Programming language:
 
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/PHP-Logo-PNG%20(1).png">
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/php-logo%20(2).png">
 
 ### Frameworks:
 <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/express-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/bootstrap-logo.png">
 
 ### Front-end:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/html-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/css-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/sass-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/jquery-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/selenium-logo.png">
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/html-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/css-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/sass-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/jquery-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/handlebars-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/greensock-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/selenium-logo.png">
 
 ### Back-end:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/nodejs-log.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoose-logo.png">
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/nodejs-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoose-logo.png">
 
 ### Database:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongodb-log.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mysql-logo.png">
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongodb-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mysql-logo.png">
 
 ## Certificates
 

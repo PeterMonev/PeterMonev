@@ -41,6 +41,8 @@
 
 [React](https://softuni.bg/certificates/details/168489/855a0f0d)
 
+[C#-Advanced](https://softuni.bg/certificates/details/251594/3e634675)
+
 ##
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)

@@ -17,7 +17,7 @@ As of September 2025, I have returned to SoftUni once again — this time to exp
 <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/php-logo%20(2).png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/Csharp_Logo%20(1)%20(1).png">
 
 ### Frameworks:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/express-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/bootstrap-logo.png">
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/express-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/bootstrap-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/Laravel.svg.png">
 
 ### Front-end:
 <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/html-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/css-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/sass-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/jquery-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/handlebars-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/greensock-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/selenium-logo.png">

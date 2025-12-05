@@ -9,7 +9,7 @@
 
 ###  Programming language:
 
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/php-logo%20(2).png">
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/php-logo%20(2).png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/Csharp.png">
 
 ### Frameworks:
 <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/express-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/bootstrap-logo.png">

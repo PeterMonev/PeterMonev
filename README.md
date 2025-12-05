@@ -1,7 +1,12 @@
 ## About me:
 
 👋 Hi, my name is Peter Monev.
-- 🌱  I'm graduated at [SoftUni](https://softuni.bg/users/profile/show?username=PeteM) as JavaScript Web Developer with React.
+- 🌱 I began my journey in software development in January 2022, when I enrolled in the JavaScript program at SoftUni. In April 2023, I successfully completed the full path and received a certificate as a JavaScript Web Developer with React. [SoftUni](https://softuni.bg/users/profile/show?username=PeteM) 
+
+After my training, I worked for 1.5 years at Megaparts, where I gained practical experience and grew professionally. Over time, my role evolved into a Full Stack Web Developer, focusing strongly on PHP, backend development, and real-world production systems.
+
+As of September 2025, I have returned to SoftUni once again — this time to expand my backend expertise by studying C#.
+
 - 📫 You can contact with me on monevpeter@gmail.com
 - :speech_balloon: My social Networks:  [<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/peter.monev)  [<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/linkedin-logo-2430.png">](https://www.linkedin.com/in/peter-monev-22582b248/)
 

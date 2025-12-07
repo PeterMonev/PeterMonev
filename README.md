@@ -46,7 +46,9 @@ As of September 2025, I have returned to SoftUni once again — this time to exp
 
 [React](https://softuni.bg/certificates/details/168489/855a0f0d)
 
-[C#-Advanced](https://softuni.bg/certificates/details/251594/3e634675)
+[C# - Advanced](https://softuni.bg/certificates/details/251594/3e634675)
+
+[C# - OOP](https://softuni.bg/certificates/details/254287/e959baad)
 
 ##
 

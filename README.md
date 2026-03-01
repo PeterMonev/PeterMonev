@@ -42,9 +42,12 @@
 
 [React](https://softuni.bg/certificates/details/168489/855a0f0d)
 
+[Diploma - Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
+
 [C# - Advanced](https://softuni.bg/certificates/details/251594/3e634675)
 
 [C# - OOP](https://softuni.bg/certificates/details/254287/e959baad)
+
 
 ##
 

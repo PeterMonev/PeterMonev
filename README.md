@@ -48,6 +48,7 @@
 
 [C# - OOP](https://softuni.bg/certificates/details/254287/e959baad)
 
+[ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
 
 ##
 

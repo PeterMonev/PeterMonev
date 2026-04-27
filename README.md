@@ -50,6 +50,8 @@
 
 [ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
 
+[ASP.NET Advanced](https://softuni.bg/certificates/details/260014/2f9b0b10)
+
 ##
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)

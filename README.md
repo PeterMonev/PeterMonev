@@ -22,7 +22,7 @@
 <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/nodejs-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoose-logo.png">
 
 ### Database:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongodb-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mysql-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/icons8-microsoft-sql-server-48.png"> 
+<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongodb-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mysql-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/icons8-microsoft-sql-server-48.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/icons8-postgresql-48.png"> 
 
 ## Certificates
 

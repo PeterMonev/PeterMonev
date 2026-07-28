@@ -1,61 +1,111 @@
-## About me:
+<div align="center">
 
-👋 Hi, my name is Peter Monev.
-- 🌱 I began my journey in software development in January 2022, when I enrolled in the JavaScript program at SoftUni. In April 2023, I successfully completed the full path and received a certificate as a JavaScript Web Developer with React. [SoftUni](https://softuni.bg/users/profile/show?username=PeteM). After my completion, I worked for 1.5 years at Megaparts, where I gained practical experience and grew professionally. Over time, my role evolved into a Full Stack Web Developer, focusing strongly on PHP, backend development, and real-world production systems. As of September 2025, I have returned to SoftUni once again — this time to expand my backend expertise by studying C#.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Peter%20Monev&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descAlignY=65&descSize=20" width="100%"/>
 
-- Live CV: https://peter-monev-cv-interactive.vercel.app/
-- 📫 You can contact with me on monevpeter@gmail.com
-- :speech_balloon: My social Networks:  [<img src="https://github.com/PeterMonev/PeterMonevInfo/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/peter.monev)  [<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/linkedin-logo-2430.png">](https://www.linkedin.com/in/peter-monev-22582b248/)
+<a href="https://peter-monev-cv-interactive.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%7C+PHP+%7C+C%23;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-## Tech Stack:
+<br/>
 
-###  Programming language:
+<a href="https://peter-monev-cv-interactive.vercel.app/"><img src="https://img.shields.io/badge/Live_CV-2C5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:monevpeter@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/peter-monev-22582b248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/peter.monev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/javascript-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/php-logo%20(2).png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/Csharp_Logo%20(1)%20(1).png">
+</div>
 
-### Frameworks:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/react-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/express-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/bootstrap-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/Laravel.svg%20(2).png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/pngaaa.com-5413927%20(1).png">
+<br/>
 
-### Front-end:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/html-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/css-logo.png"><img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/sass-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/jquery-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/handlebars-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/greensock-logo.png">
+## 👋 About Me
 
-### Back-end:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/nodejs-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongoose-logo.png">
+- 🌱 Began my journey in software development in **January 2022**, enrolling in the JavaScript program at **SoftUni**.
+- 🎓 Completed the full path in **April 2023**, earning a certificate as a **JavaScript Web Developer with React**.
+- 💼 Spent **1.5 years at Megaparts**, growing from junior developer into a **Full Stack Web Developer**, with a strong focus on **PHP**, backend architecture, and real-world production systems.
+- 🔁 Returned to **SoftUni in September 2025** to deepen my backend expertise — this time studying **C# / .NET**.
+- 🎯 Currently exploring backend architecture, databases, and building projects that combine everything I've learned so far.
 
-### Database:
-<img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mongodb-log.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/mysql-logo.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/icons8-microsoft-sql-server-48.png"> <img src="https://github.com/PeterMonev/PeterMonev/blob/main/img/icons8-postgresql-48.png"> 
+<br/>
 
-## Certificates
+## 🛠️ Tech Stack
 
-[Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
+**Languages**
 
-[Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
+<img src="https://skillicons.dev/icons?i=js,php,cs" />
 
-[QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
+**Frameworks & Libraries**
 
-[JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
+<img src="https://skillicons.dev/icons?i=react,express,bootstrap,laravel,dotnet" />
 
-[HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
+**Frontend**
 
-[JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
+<img src="https://skillicons.dev/icons?i=html,css,sass,jquery" />
 
-[JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
+**Backend**
 
-[React](https://softuni.bg/certificates/details/168489/855a0f0d)
+<img src="https://skillicons.dev/icons?i=nodejs,mongoose" />
 
-[Diploma - Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
+**Databases**
 
-[C# - Advanced](https://softuni.bg/certificates/details/251594/3e634675)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql,postgres" />
 
-[C# - OOP](https://softuni.bg/certificates/details/254287/e959baad)
+**Tools**
 
-[ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-[ASP.NET Advanced](https://softuni.bg/certificates/details/260014/2f9b0b10)
+<br/>
 
-[MSSQL](https://softuni.bg/Certificates/Details/262200/0a61a833)
+## 📊 GitHub Stats
 
-##
+<div align="center">
 
-![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)
- 
+<img src="https://github-readme-stats.vercel.app/api?username=PeterMonev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterMonev&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMonev&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Certificates
+
+<details>
+<summary><b>SoftUni — JavaScript / Front-End Track</b></summary>
+<br/>
+
+- [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
+- [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
+- [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
+- [JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
+- [HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
+- [JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
+- [JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
+- [React](https://softuni.bg/certificates/details/168489/855a0f0d)
+- [Diploma — Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
+
+</details>
+
+<details>
+<summary><b>SoftUni — C# / Backend Track</b></summary>
+<br/>
+
+- [C# — Advanced](https://softuni.bg/certificates/details/251594/3e634675)
+- [C# — OOP](https://softuni.bg/certificates/details/254287/e959baad)
+- [ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
+- [ASP.NET Advanced](https://softuni.bg/certificates/details/260014/2f9b0b10)
+- [MSSQL](https://softuni.bg/Certificates/Details/262200/0a61a833)
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's connect
+
+Open to new opportunities, collaborations, and interesting problems to solve.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>

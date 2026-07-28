@@ -56,20 +56,25 @@
 <br/>
 
 ## 📊 Stats
- 
+
 <div align="center">
+
 <img src="https://img.shields.io/github/followers/PeterMonev?style=for-the-badge&color=e8b04b&labelColor=0f2027&logo=github&logoColor=e8b04b&label=FOLLOWERS" />
 <img src="https://komarev.com/ghpvc/?username=PeterMonev&style=for-the-badge&color=e8b04b&label=PROFILE+VIEWS" />
+
 <br/><br/>
- 
-<img src="https://github-readme-stats.vercel.app/api?username=PeterMonev&show_icons=true&count_private=true&hide_border=true&bg_color=0f2027,2c5364&title_color=e8b04b&icon_color=e8b04b&text_color=eef3f5&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PeterMonev&show_icons=true&count_private=true&hide_border=true&bg_color=45,0f2027,2c5364&title_color=e8b04b&icon_color=e8b04b&text_color=eef3f5&rank_icon=github" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=PeterMonev&hide_border=true&background=45,0F2027,2C5364&border=2C5364&ring=E8B04B&fire=E8B04B&currStreakNum=EEF3F5&sideNums=EEF3F5&currStreakLabel=E8B04B&sideLabels=7D98A1&dates=7D98A1" width="49%"/>
+
 <br/><br/>
- 
+
 <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/dev-stats.svg" width="700"/>
+
 </div>
+
 <sub>If a card above ever shows blank, it's GitHub's own image cache having a moment — a refresh fixes it. The terminal card at the bottom is self-hosted and always works.</sub>
- 
+
 <br/>
 
 ## 🏆 Certificates
@@ -102,7 +107,7 @@
 
 Open to new opportunities, collaborations, and interesting problems to solve.
 
-![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)
+<img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/podoboregifche.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 

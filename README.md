@@ -103,7 +103,7 @@
 
 Open to new opportunities, collaborations, and interesting problems to solve.
 
-<img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/podoboregifche.gif" width="100%"/>
+![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 

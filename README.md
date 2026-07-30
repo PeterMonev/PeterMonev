@@ -47,7 +47,7 @@
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> <img src="https://img.shields.io/badge/MSSQL-0f2027?style=for-the-badge&logo=microsoftsqlserver&logoColor=e8b04b" />
 
 **Tools**
 
@@ -64,16 +64,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeterMonev&show_icons=true&count_private=true&hide_border=true&bg_color=45,0f2027,2c5364&title_color=e8b04b&icon_color=e8b04b&text_color=eef3f5&rank_icon=github" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=PeterMonev&hide_border=true&background=45,0F2027,2C5364&border=2C5364&ring=E8B04B&fire=E8B04B&currStreakNum=EEF3F5&sideNums=EEF3F5&currStreakLabel=E8B04B&sideLabels=7D98A1&dates=7D98A1" width="49%"/>
-
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/dev-stats.svg" width="700"/>
 
 </div>
-
-<sub>If a card above ever shows blank, it's GitHub's own image cache having a moment — a refresh fixes it. The terminal card at the bottom is self-hosted and always works.</sub>
 
 <br/>
 

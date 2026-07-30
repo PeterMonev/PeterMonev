@@ -39,7 +39,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,jquery" /> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/greensock-logo.png" width="48" height="48"/> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/handlebars-logo.png" width="48" height="48"/>
 
 **Backend**
 
@@ -47,7 +47,7 @@
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> <img src="https://img.shields.io/badge/MSSQL-0f2027?style=for-the-badge&logo=microsoftsqlserver&logoColor=e8b04b" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/icons8-microsoft-sql-server-48.png" width="48" height="48"/>
 
 **Tools**
 

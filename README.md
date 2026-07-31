@@ -27,23 +27,43 @@
 
 <br/>
 
+## 🏆 Certificates
+
+**SoftUni — JavaScript / Front-End Track**
+
+- [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
+- [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
+- [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
+- [JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
+- [HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
+- [JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
+- [JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
+- [React](https://softuni.bg/certificates/details/168489/855a0f0d)
+- [Diploma — Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
+
+**SoftUni — C# / Backend Track**
+
+- [C# — Advanced](https://softuni.bg/certificates/details/251594/3e634675)
+- [C# — OOP](https://softuni.bg/certificates/details/254287/e959baad)
+- [ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
+- [ASP.NET Advanced](https://softuni.bg/certificates/details/260014/2f9b0b10)
+- [MSSQL](https://softuni.bg/Certificates/Details/262200/0a61a833)
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=js,php,cs" />
 
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,express,bootstrap,laravel,dotnet" />
-
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,jquery" /> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/greensock-logo.png" width="48" height="48"/> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/handlebars-logo.png" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,jquery" /> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/greensock-logo.png" width="48" height="48"/> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/handlebars-logo.png" width="48" height="48"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongoose" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet" /> <img src="https://raw.githubusercontent.com/PeterMonev/PeterMonev/main/img/mongoose-logo.png" width="48" height="48"/>
 
 **Databases**
 
@@ -70,30 +90,6 @@
 
 <br/>
 
-## 🏆 Certificates
-
-**SoftUni — JavaScript / Front-End Track**
-
-- [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
-- [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
-- [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
-- [JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
-- [HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
-- [JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
-- [JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
-- [React](https://softuni.bg/certificates/details/168489/855a0f0d)
-- [Diploma — Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
-
-**SoftUni — C# / Backend Track**
-
-- [C# — Advanced](https://softuni.bg/certificates/details/251594/3e634675)
-- [C# — OOP](https://softuni.bg/certificates/details/254287/e959baad)
-- [ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
-- [ASP.NET Advanced](https://softuni.bg/certificates/details/260014/2f9b0b10)
-- [MSSQL](https://softuni.bg/Certificates/Details/262200/0a61a833)
-
-<br/>
-
 <div align="center">
 
 ### 📬 Let's connect
@@ -101,6 +97,12 @@
 Open to new opportunities, collaborations, and interesting problems to solve.
 
 ![Animation](https://github.com/PeterMonev/PeterMonev/blob/main/img/podoboregifche.gif)
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 

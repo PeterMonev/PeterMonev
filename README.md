@@ -48,6 +48,7 @@
 - [ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)
 - [ASP.NET Advanced](https://softuni.bg/certificates/details/260014/2f9b0b10)
 - [MSSQL](https://softuni.bg/Certificates/Details/262200/0a61a833)
+- [Entity Framework Core](https://softuni.bg/certificates/details/263700/d05ef7b2)
 
 <br/>
 

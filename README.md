@@ -23,7 +23,8 @@
 - 🎓 Completed the full path in **April 2023**, earning a certificate as a **JavaScript Web Developer with React**.
 - 💼 Spent **1.5 years at Megaparts**, growing from junior developer into a **Full Stack Web Developer**, with a strong focus on **PHP**, backend architecture, and real-world production systems.
 - 🔁 Returned to **SoftUni in September 2025** to deepen my backend expertise — this time studying **C# / .NET**.
-- 🎯 Currently exploring backend architecture, databases, and building projects that combine everything I've learned so far.
+- 🎓 In **August 2026**, earned a **Diploma — Back-End Software Engineer with C#**.
+- 🎯 Currently focused on C#, ASP.NET Core, Entity Framework Core, SQL, backend architecture, and full-stack development.
 
 <br/>
 
@@ -31,18 +32,19 @@
 
 **SoftUni — JavaScript / Front-End Track**
 
-- [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
-- [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
-- [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
-- [JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
-- [HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
-- [JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
-- [JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
+- 🏆 [Diploma — Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
 - [React](https://softuni.bg/certificates/details/168489/855a0f0d)
-- [Diploma — Front-End Developer with JavaScript](https://softuni.bg/certificates/details/256059/34aac0f8)
+- [JavaScript Back-End](https://softuni.bg/certificates/details/162711/07729bab)
+- [JavaScript Applications](https://softuni.bg/certificates/details/149863/25a88944)
+- [HTML & CSS](https://softuni.bg/certificates/details/147301/233868d0)
+- [JavaScript Advanced](https://softuni.bg/certificates/details/145469/94dd7900)
+- [QA Fundamentals](https://softuni.bg/certificates/details/133013/505f6769)
+- [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139238/a15e82d0)
+- [Programming Basics](https://softuni.bg/Certificates/Details/125483/0368bceb)
 
 **SoftUni — C# / Backend Track**
 
+- 🏆 [**Diploma — Back-End Software Engineer with C#**](https://softuni.bg/certificates/details/264915/b96c2ed6)
 - [C# — Advanced](https://softuni.bg/certificates/details/251594/3e634675)
 - [C# — OOP](https://softuni.bg/certificates/details/254287/e959baad)
 - [ASP.NET Fundamentals](https://softuni.bg/certificates/details/257928/42d7cd68)

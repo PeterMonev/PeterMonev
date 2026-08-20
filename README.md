@@ -20,7 +20,7 @@
 ## 👋 About Me
 
 - 🌱 Began my journey in software development in **January 2022**, enrolling in the JavaScript program at **SoftUni**.
-- 🎓 Completed the full path in **April 2023**, earning a certificate as a **JavaScript Web Developer with React**.
+- 🎓 Completed the full path in April 2023, earning a Diploma — Front-End Developer with JavaScript.
 - 💼 Spent **1.5 years at Megaparts**, growing from junior developer into a **Full Stack Web Developer**, with a strong focus on **PHP**, backend architecture, and real-world production systems.
 - 🔁 Returned to **SoftUni in September 2025** to deepen my backend expertise — this time studying **C# / .NET**.
 - 🎓 In **August 2026**, earned a **Diploma — Back-End Software Engineer with C#**.

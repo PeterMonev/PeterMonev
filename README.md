@@ -64,7 +64,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,php,cs" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,cs" />
 
 **Frontend**
 

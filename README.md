@@ -24,6 +24,8 @@
 - 💼 Spent **1.5 years at Megaparts**, growing from junior developer into a **Full Stack Web Developer**, with a strong focus on **PHP**, backend architecture, and real-world production systems.
 - 🔁 Returned to **SoftUni in September 2025** to deepen my backend expertise — this time studying **C# / .NET**.
 - 🎓 In **August 2026**, earned a **Diploma — Back-End Software Engineer with C#**.
+- 🛠️ In **October 2026**, completed **Software Engineering and DevOps** at **SoftUni**, gaining hands-on coursework experience with **CI/CD, GitHub Actions, Jenkins, and automated testing**.
+- 📚 Currently studying **TypeScript** to build on my JavaScript foundation.
 - 🎯 Currently focused on C#, ASP.NET Core, Entity Framework Core, SQL, backend architecture, and full-stack development.
 
 <br/>
@@ -52,6 +54,10 @@
 - [MSSQL](https://softuni.bg/Certificates/Details/262200/0a61a833)
 - [Entity Framework Core](https://softuni.bg/certificates/details/263700/d05ef7b2)
 
+**SoftUni — Software Engineering & DevOps**
+
+- [Software Engineering and DevOps](https://softuni.bg/certificates/details/266665/6e758699) — issued **28 October 2026** · **6.00 / 6.00**
+
 <br/>
 
 ## 🛠️ Tech Stack
@@ -75,6 +81,18 @@
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+**DevOps & CI/CD (coursework)**
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins" alt="GitHub Actions and Jenkins" />
+
+CI/CD fundamentals and automated .NET builds and tests with GitHub Actions and Jenkins, including unit and integration testing in [SoftUni exam projects](https://github.com/PeterMonev/SEDO-09-2026-Regular-Exam-2).
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript (currently studying)" />
+
+TypeScript — in progress.
 
 <br/>
 

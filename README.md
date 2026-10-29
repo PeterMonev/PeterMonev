@@ -86,14 +86,6 @@
 
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins" alt="GitHub Actions and Jenkins" />
 
-CI/CD fundamentals and automated .NET builds and tests with GitHub Actions and Jenkins, including unit and integration testing in [SoftUni exam projects](https://github.com/PeterMonev/SEDO-09-2026-Regular-Exam-2).
-
-**Currently Learning**
-
-<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript (currently studying)" />
-
-TypeScript — in progress.
-
 <br/>
 
 ## 📊 Stats

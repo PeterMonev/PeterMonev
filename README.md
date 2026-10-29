@@ -56,7 +56,7 @@
 
 **SoftUni — Software Engineering & DevOps**
 
-- [Software Engineering and DevOps](https://softuni.bg/certificates/details/266665/6e758699) — issued **28 October 2026** · **6.00 / 6.00**
+- [Software Engineering and DevOps](https://softuni.bg/certificates/details/266665/6e758699)
 
 <br/>
 
